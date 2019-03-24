@@ -8,6 +8,7 @@ This is a simple Java Swing application to calculate and display whether a point
 
 - Supports device and logical coordinate systems
 - Supports canvas-clearing for multiple uses
+- Supports tracking of current point coordinates
 - Can identify **which** edge of the triangle a point lies on
 - Can identify if the first 3 points do not form a triangle
 - Considers a point in a narrow range around the triangle edges as being on an edge (as it would be an essentially impossible outcome otherwise)
